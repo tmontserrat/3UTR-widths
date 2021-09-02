@@ -6,6 +6,6 @@ There are two scripts with a slightly different output: a R script and a Bash sc
 
 You can get the data for the shell script using:  
 
-  $ curl https://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/genes/hg19.knownGene.gtf.gz > hg19-knownGene.gtf.gz
-  $ gunzip hg19-knownGene.gtf.gz
+    $ curl https://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/genes/hg19.knownGene.gtf.gz > hg19-knownGene.gtf.gz
+    $ gunzip hg19-knownGene.gtf.gz
 
